@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Esraa</h1>
-<h3 align="center">A passionate Software Engineer and Data Scientist from Egypt.</h3>
+<h1 align="left">Hi 👋, I'm Esraa</h1>
+<h3 align="left">A passionate Software Engineer and Data Scientist from Egypt, aspiring to be better.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esraa176&label=Profile%20views&color=0e75b6&style=flat" alt="esraa176" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esraa176" alt="esraa176" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=esraa176&label=Profile%20views&color=0e75b6&style=flat" alt="esraa176" /> </p>
 
 - 🌱 I’m currently learning **NLP and Flutter.**
 
@@ -31,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraa176&show_icons=true&locale=en" alt="esraa176" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraa176&" alt="esraa176" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esraa176" alt="esraa176" /></a> </p>
