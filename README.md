@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Esraa 👋</h1>
-<h3 align="left">A passionate Software Engineer and Data Scientist from Egypt, aspiring to be better.</h3>
+<h3 align="left">A passionate Software Engineer and Data Scientist from Egypt aspiring to be better.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=esraa176&label=Profile%20views&color=0e75b6&style=flat" alt="esraa176" /> </p>
 
