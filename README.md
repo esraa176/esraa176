@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **esraa.emad017@gmail.com**
 
-- ⚡ Fun fact **I love reading about Space and Psychology :telescope::books:.**
+- ⚡ Fun fact **I love reading/talking about Space and Psychology :telescope::books:.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
